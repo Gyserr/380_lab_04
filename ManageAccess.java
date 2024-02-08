@@ -25,3 +25,4 @@ public class ManageAccess {
 		}
 		throw new IllegalArgumentException("Array only holds 0-9");
 	}
+}
